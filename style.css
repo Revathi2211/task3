@@ -1,0 +1,22 @@
+.picture{
+    padding: 10% 25%;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img{
+    width: 90vh;
+    height: 60vh;
+    display: block;
+}
+button{
+    background: linear-gradient(white,orange);
+    display: block;
+    width: 90vh;
+    font-size: 3vh;
+    border: 0.5vh solid black;
+    
+}
